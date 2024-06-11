@@ -33,7 +33,7 @@ a{
     gap: 15px;
 }
 
-img{
+.image > img{
     height: 200px;
     width: 350px;
 }
@@ -57,4 +57,30 @@ button{
 .LOGO > h1{
     font-size: 24px;
 }
+
+.body1{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 40vh;
+}
+.body1 > h2{
+    padding-top: 10px;
+    margin-left: 40%;
+    padding-bottom: 25px;
+}
+
+.body1-images{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.text1{
+    max-width: 150px;
+}
+img {
+    height: 150px;
+    width: 150px;
+    padding-bottom: 5px;
+}
+
 
