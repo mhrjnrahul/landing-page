@@ -61,7 +61,8 @@ button{
 .body1{
     margin-left: 20%;
     margin-right: 20%;
-    height: 40vh;
+    height: 400px;
+    padding-bottom: 40px;
 }
 .body1 > h2{
     padding-top: 10px;
@@ -82,5 +83,23 @@ img {
     width: 150px;
     padding-bottom: 5px;
 }
+
+.body2{
+    background-color: #e5e7eb;
+    height: 400px;
+}
+.body2 > p{
+    font-size: 36px;
+    color: #1F2937;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 50px;
+}
+
+span{
+    margin-left: 65%;
+}
+
+
 
 
